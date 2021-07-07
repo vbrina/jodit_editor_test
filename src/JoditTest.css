@@ -1,15 +1,9 @@
 .JoditTest {
-  background: rgb(2, 0, 36);
-  background: radial-gradient(
-    circle,
-    rgba(2, 0, 36, 1) 0%,
-    rgba(9, 9, 121, 1) 35%,
-    rgba(0, 212, 255, 1) 100%
-  );
+  background: #f8f8f8;
   padding: 20.3em;
 }
 
 .h1 {
   text-align: center;
-  color: white;
+  color: black;
 }
